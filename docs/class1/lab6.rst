@@ -55,6 +55,8 @@ You can also select it from the left drop-down menu.
 
       .. image:: _static/lab6-007.PNG
       
+#. For the name of the Origin Pool use: <namespace-origin-pool>
+
 #. Enter the following variables under 'Origin Host Header'
 
    ================================= =====
