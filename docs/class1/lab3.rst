@@ -124,13 +124,13 @@ Exercise 1: HTTP Load Balancer Configuration
 
 #. Start in F5 Distributed Cloud Console and switch to the "Web App & API Protection" context. [You should already be here from previous lab]
 
-#. Navigate the menu to go to "Manage"->"HTTP Load Balancers" and look for the Load Balancer named *global* that you previously created.
+#. Navigate the menu to go to "Manage"->"HTTP Load Balancers" and look for the Load Balancer named *<namespace>-lb* that you previously created.
 
-#. Click on the three dots "..." to the right of the name of your *global* Load Balancer and select the "Manage Configuration" option.
+#. Click on the three dots "..." to the right of the name of your *<namespace>-lb* Load Balancer and select the "Manage Configuration" option.
 
    .. image:: _static/screenshot-global-vip-actions-manage.png
 
-#. Click on "Edit Configuration" in the upper right of the screen (after your *global* Load Balancer is loaded).
+#. Click on "Edit Configuration" in the upper right of the screen (after your *<namespace>-lb* Load Balancer is loaded).
 
    .. image:: _static/screenshot-global-vip-edit-config.png
 
